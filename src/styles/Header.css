@@ -1,0 +1,14 @@
+.nav-btn{
+    background-color: blue;
+    color: white;
+    padding: 6px 20px;
+    cursor: pointer;
+}
+
+.navbar-1{
+    position: fixed;
+    top: 0;
+    overflow: hidden;
+    width: 100%;
+    z-index: 9999;
+}
